@@ -1,6 +1,12 @@
-# First Sample Git Project
+# First Sample Project
 
-## Basic Git Command Execution
-```sql
-  git add file.txt
+## Basic Git command Exection
+
+### Stage File
+```bash
+git add file.txt
+```
+#### Commit File to Local Repository
+```bash
+git commit -m "first commit"
 ```
